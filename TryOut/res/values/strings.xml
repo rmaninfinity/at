@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TryOut</string>
-    <string name="hello_world">Good Very Good</string>
+    <string name="hello_world">Not at all!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
